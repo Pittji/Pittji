@@ -1,1 +1,1 @@
-👋 Greetings, I am a 15-year-old high school student with a fervor for data science, software and video game development. Residing in Germany, I am a huge fan of Arch Linux, aligning my pursuits with the precision and sophistication characteristic of the tech landscape. :3
+
